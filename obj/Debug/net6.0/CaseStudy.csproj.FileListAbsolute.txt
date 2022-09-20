@@ -1,0 +1,60 @@
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\bin\Debug\net6.0\CaseStudy.exe
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\bin\Debug\net6.0\CaseStudy.deps.json
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\bin\Debug\net6.0\CaseStudy.dll
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\bin\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.dll
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\refint\CaseStudy.dll
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+C:\Users\User\desktop\OS_CaseStudy\CaseStudy\obj\Debug\net6.0\ref\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\bin\Debug\net6.0\CaseStudy.exe
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\bin\Debug\net6.0\CaseStudy.deps.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\bin\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\bin\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\refint\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod\obj\Debug\net6.0\ref\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\refint\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\bin\Debug\net6.0\CaseStudy.exe
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\bin\Debug\net6.0\CaseStudy.deps.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\bin\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\bin\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudyMod copy\obj\Debug\net6.0\ref\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\bin\Debug\net6.0\CaseStudy.exe
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\bin\Debug\net6.0\CaseStudy.deps.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\bin\Debug\net6.0\CaseStudy.runtimeconfig.json
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\bin\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\bin\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.AssemblyInfo.cs
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\refint\CaseStudy.dll
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.pdb
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\CaseStudy.genruntimeconfig.cache
+C:\Users\User\Desktop\OS_CaseStudy\CaseStudy_ver02\obj\Debug\net6.0\ref\CaseStudy.dll
